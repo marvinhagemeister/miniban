@@ -5,7 +5,7 @@ It weights only merely **550 bytes** and has no dependencies!
 
 | Package | Size | op/s |
 |---|---|--:|
-| [miniban](https://github.com/marvinhagemeister/miniban) | **550 bytes** | **2,391,250.789** |
+| [miniban](https://github.com/marvinhagemeister/miniban) | **550 bytes** | **3,897,495.668** |
 | [iban.js](https://github.com/arhs/iban.js/) | ~3.5 kb| 359,175.582 |
 
 ## Installation
