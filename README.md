@@ -1,7 +1,7 @@
 # miniban
 
 `miniban` is a tiny IBAN validator that is optimized for size and performance.
-It weights only merly **550 bytes** and has no dependencies!
+It weights only merely **550 bytes** and has no dependencies!
 
 | Package | Size | op/s |
 |---|---|--:|
@@ -14,7 +14,7 @@ It weights only merly **550 bytes** and has no dependencies!
 # npm
 npm install miniban
 
-# yanr
+# yarn
 yarn add miniban
 ```
 
