@@ -1,7 +1,7 @@
 # miniban
 
 `miniban` is a tiny IBAN validator that is optimized for size and performance.
-It weights only merly **550 bytes**!
+It weights only merly **550 bytes** and has no dependencies!
 
 | Package | Size | op/s |
 |---|---|--:|

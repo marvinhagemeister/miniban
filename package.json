@@ -20,13 +20,12 @@
     "prepublishOnly": "npm run lint && npm t && npm run build",
     "precommit": "lint-staged"
   },
-  "dependencies": {
-    "benchmarkjs-pretty": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/iban": "^0.0.29",
     "@types/mocha": "^2.2.43",
     "@types/node": "^8.0.47",
+    "benchmarkjs-pretty": "^2.0.0",
     "husky": "^0.14.3",
     "iban": "^0.0.8",
     "lint-staged": "^4.0.4",
