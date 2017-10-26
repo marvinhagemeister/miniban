@@ -10,7 +10,7 @@ const CODE_LENGTHS: Record<string, number> = {
 };
 
 export function isValidIBAN(input: any) {
-  const iban = (input + "").toUpperCase().replace(/[^A-Z0-9]/g, "");
+  const iban = (input + "").toUpperCase();
 
   const country = iban.slice(0, 2);
   if (CODE_LENGTHS[country] !== iban.length) {
