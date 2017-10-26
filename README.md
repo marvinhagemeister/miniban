@@ -31,4 +31,4 @@ console.log(isValidIBAN("AL47212110090000000235698741"));
 
 ## License
 
-`MIT`, see [License file](./License.md).
+`MIT`, see [License file](./LICENSE.md).
