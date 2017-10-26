@@ -3,6 +3,11 @@
 `miniban` is a tiny IBAN validator that is optimized for size and performance.
 It weights only merly **550 bytes**!
 
+| Package | Size | op/s |
+|---|---|--:|
+| [miniban](https://github.com/marvinhagemeister/miniban) | **550 bytes** | **2,391,250.789** |
+| [iban.js](https://github.com/arhs/iban.js/) | ~3.5 kb| 359,175.582 |
+
 ## Installation
 
 ```bash
