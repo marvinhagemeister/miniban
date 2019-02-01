@@ -9,5 +9,6 @@ src/
 .travis.yml
 .gitignore
 .prettierrc
-tsconfig.json
+.rts2*
+tsconfig*
 tslint.json
